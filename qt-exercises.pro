@@ -2,4 +2,5 @@ TEMPLATE = subdirs
 
 SUBDIRS += \
     qt-string \
-    qt-stream
+    qt-stream \
+    qt-file
