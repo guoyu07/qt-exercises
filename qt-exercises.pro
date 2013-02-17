@@ -6,4 +6,5 @@ SUBDIRS += \
     qt-file \
     qt-dialog \
     qt-args \
-    qt-string-list
+    qt-string-list \
+    qt-operator-overload

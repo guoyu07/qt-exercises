@@ -3,9 +3,13 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = qt-string-list
+TARGET = qt-operator-overload
 DEPENDPATH += .
 INCLUDEPATH += .
 
 # Input
-SOURCES += main.cpp
+SOURCES += main.cpp \
+    complex.cpp
+
+HEADERS += \
+    complex.h
