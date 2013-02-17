@@ -5,4 +5,5 @@ SUBDIRS += \
     qt-stream \
     qt-file \
     qt-dialog \
-    qt-args
+    qt-args \
+    qt-string-list
